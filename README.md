@@ -9,7 +9,7 @@ But besides all that, thanks for taking a gander at my GitHub and feel free to f
 - [Pterodactyl](https://github.com/tommyshelby9121/pterodactyl/blob/master)
     - This a discord bot that works with the pterodactyl panel api and ships with a built in panel for configuration and nothing but coolness.
 -->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommyshelby9121&show_icons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommyshelby9121&show_icons=true&theme=tokyonight)]()
 
 <!--
 - 🔭 I’m currently working on ...
