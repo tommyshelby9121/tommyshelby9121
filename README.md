@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey! My name is Tommy Shelby* I create some wacky projects when I have a need for it. And sometimes some projects might go unattended so please don't hold me to it.
+Hey! My name is Tommy Shelby* I create some wacky projects when I have a need for it, and sometimes some projects might go unattended so please don't hold me to it. I also spend a lot of my times creating issues for my friends projects as well.
 
 But besides all that, thanks for taking a gander at my GitHub and feel free to follow me or star any of my projects <img src="https://cdn.discordapp.com/emojis/738118274067464293.gif?v=1" width="20">
 
