@@ -4,10 +4,11 @@ Hey! My name is Tommy Shelby* I create some wacky projects when I have a need fo
 
 But besides all that, thanks for taking a gander at my GitHub and feel free to follow me or star any of my projects <img src="https://cdn.discordapp.com/emojis/738118274067464293.gif?v=1" width="20">
 
+<!--
 ### What I'm working on:
 - [Pterodactyl](https://github.com/tommyshelby9121/pterodactyl/blob/master)
     - This a discord bot that works with the pterodactyl panel api and ships with a built in panel for configuration and nothing but coolness.
-
+-->
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommyshelby9121&show_icons=true)]()
 
 <!--
