@@ -9,6 +9,10 @@ But besides all that, thanks for taking a gander at my GitHub and feel free to f
 - [Pterodactyl](https://github.com/tommyshelby9121/pterodactyl/blob/master)
     - This a discord bot that works with the pterodactyl panel api and ships with a built in panel for configuration and nothing but coolness.
 -->
+### What I'm working on:
+- [urlshortner](https://github.com/tommyshelby9121/urlshortner/blob/master)
+    - This an application that allows the user to create custom short URLs using their own domain/branding.
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommyshelby9121&show_icons=true&theme=tokyonight)]()
 
 <!--
