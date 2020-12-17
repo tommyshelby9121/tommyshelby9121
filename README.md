@@ -13,7 +13,9 @@ But besides all that, thanks for taking a gander at my GitHub and feel free to f
 - [urlshortner](https://github.com/tommyshelby9121/urlshortner/blob/master)
     - This an application that allows the user to create custom short URLs using their own domain/branding.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommyshelby9121&show_icons=true&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommyshelby9121&show_icons=true&theme=tokyonight)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyshelby9121&theme=tokyonight&langs_count=4&layout=compact)]
 
 <!--
 - 🔭 I’m currently working on ...
