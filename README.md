@@ -12,6 +12,9 @@ But besides all that, thanks for taking a gander at my GitHub and feel free to f
 ### What I'm working on:
 - [urlshortner](https://github.com/tommyshelby9121/urlshortner/blob/master)
     - This an application that allows the user to create custom short URLs using their own domain/branding.
+    
+- [TicketyBot](https://github.com/tommyshelby9121/TicketyBot/blob/master)
+    - This a discord bot that is created for providing support in large guilds.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommyshelby9121&show_icons=true&theme=tokyonight)
 
